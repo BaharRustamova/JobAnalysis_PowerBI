@@ -1,1 +1,1 @@
-# JobAnalysis_PowerBI
+I gathered data from excel. I using DAX formulas found some measures which I need during visualization. I analysis data like which country has more salary according to max salary.  The percentage of women and men working according to the given fields. As you can see male percentage is grater than female. Defined data difficulty by programming language, work/life balance as industry and satisfaction with salary by positon(for example data sceintist, data analyst).  
